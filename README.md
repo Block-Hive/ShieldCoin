@@ -56,7 +56,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](https://github.com/charudatta10/ShieldCoin/blob/main/LICENSE) file for details.
 
----
-
-
-<!-- Acknowledgment, References, Misc -->
