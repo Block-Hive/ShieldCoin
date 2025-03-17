@@ -58,6 +58,6 @@ This project is licensed under the GPL-3.0 License. See the [LICENSE](https://gi
 
 ---
 
-Copyright 2076 CHARUDATTA KORDE LLC.
+[Reference](reference.md)
 
 <!-- Acknowledgment, References, Misc -->
