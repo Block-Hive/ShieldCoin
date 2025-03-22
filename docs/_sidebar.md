@@ -1,4 +1,4 @@
 
-- C:
-  - [README](C:\Users\korde\Home\Github\ShieldCoin\docs\README.md)
-  - [Reference](C:\Users\korde\Home\Github\ShieldCoin\docs\reference.md)
+- [Home](/)
+- [README](README.md)
+- [Reference](reference.md)
