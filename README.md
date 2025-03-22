@@ -18,6 +18,17 @@
 
 ShieldCoin is a revolutionary digital currency designed by the NFSU Blockchain Security and Analysis team. It aims to provide unparalleled security and transparency in blockchain transactions, ensuring a safe and efficient digital economy.  
 
+> [!important]
+>
+> # References
+>
+> ## List of prior implementations and references
+>
+> - DHT Blockchain implementation: <https://arxiv.org/pdf/2109.00416>
+> - Consensus mechanism and federated learning: <https://arxiv.org/pdf/2110.02998>
+> - Lua VM on block chain: <https://github.com/callchain/lua-vm>
+  
+
 ## Features
 
 - Enhanced Security: ShieldCoin utilizes advanced cryptographic techniques to safeguard transactions, ensuring that every transfer is secure and tamper-proof. 
